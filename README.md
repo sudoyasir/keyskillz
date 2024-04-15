@@ -15,7 +15,7 @@
 
 Live Deployment 🌐:[https://keyskillz.vercel.app/](https://keyskillz.vercel.app/)
 
-Welcome to the Typing Test Website! This project is developed in React and allows users to test their typing speed and accuracy with a short one-minute typing test.
+Welcome to Key Skillz! This project is developed in React and allows users to test their typing speed and accuracy with a short one-minute typing test.
 
 ## Features ✨
 
