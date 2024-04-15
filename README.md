@@ -3,15 +3,17 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-  ![Stars](https://img.shields.io/github/stars/yasir2002%2Fkeyskillz)
-  ![Stars](https://img.shields.io/github/watchers/yasir2002%2Fkeyskillz)
-  ![Stars](https://img.shields.io/github/forks/yasir2002%2Fkeyskillz)
-</div>
+![Stars](https://img.shields.io/github/stars/yasir2002%2Fkeyskillz)
+![Stars](https://img.shields.io/github/watchers/yasir2002%2Fkeyskillz)
+![Stars](https://img.shields.io/github/forks/yasir2002%2Fkeyskillz)
 
+</div>
 
 # Keyskillz (Typing Test Website) 💻
 
 ![KeySkills](https://github.com/yasir2002/keyskillz/blob/main/pictures/readme.png)
+
+Live Deployment 🌐:[https://keyskillz.vercel.app/](https://keyskillz.vercel.app/)
 
 Welcome to the Typing Test Website! This project is developed in React and allows users to test their typing speed and accuracy with a short one-minute typing test.
 
