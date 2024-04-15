@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][https://github.com/yasir2002/keyskillz/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/yasir2002/keyskillz/forks]
+[![Stargazers][stars-shield]][https://github.com/yasir2002/keyskillz/stargazers]
+[![Issues][issues-shield]][https://github.com/yasir2002/keyskillz/issues]
+[![MIT License][license-shield]][https://github.com/yasir2002/keyskillz?tab=MIT-1-ov-file#readme]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yasirnawaz24/]
+
 # Keyskillz (Typing Test Website) 💻
 
 ![KeySkills](https://github.com/yasir2002/keyskillz/blob/main/pictures/readme.png)
@@ -27,17 +34,17 @@ git clone https://github.com/yasir2002/keyskillz.git
 cd keyskillz
 ```
 
-
 3. Install dependencies:
+
 ```bash
 npm install
 ```
 
 4. Start the development server:
+
 ```bash
 npm run dev
 ```
-
 
 5. Open your browser and visit [http://localhost:5173](http://localhost:5173/) to view the website.
 
@@ -58,4 +65,3 @@ Excited about improving your typing speed and accuracy? Want to contribute to an
 By forking this repository, you can customize the Typing Test Website to fit your needs, add new features, fix bugs, or even just experiment with React development. Plus, you'll be part of a growing community of developers working to make typing tests more accessible and enjoyable for everyone.
 
 So go ahead, click that "Fork" button, and let your creativity flow! I can't wait to see what you come up with.
-
