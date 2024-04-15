@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { quotesArray, random, allowedKeys } from "./Helper";
 import ItemList from "./components/ItemList";
-import "./App.css";
+import "./App.scss";
 
 let interval = null;
 
