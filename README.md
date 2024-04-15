@@ -1,9 +1,13 @@
-[![Contributors][contributors-shield]][https://github.com/yasir2002/keyskillz/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/yasir2002/keyskillz/forks]
-[![Stargazers][stars-shield]][https://github.com/yasir2002/keyskillz/stargazers]
-[![Issues][issues-shield]][https://github.com/yasir2002/keyskillz/issues]
-[![MIT License][license-shield]][https://github.com/yasir2002/keyskillz?tab=MIT-1-ov-file#readme]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yasirnawaz24/]
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+  ![Stars](https://img.shields.io/github/stars/yasir2002%2Fkeyskillz)
+  ![Stars](https://img.shields.io/github/watchers/yasir2002%2Fkeyskillz)
+  ![Stars](https://img.shields.io/github/forks/yasir2002%2Fkeyskillz)
+</div>
+
 
 # Keyskillz (Typing Test Website) 💻
 
