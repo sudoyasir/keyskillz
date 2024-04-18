@@ -13,7 +13,10 @@
 
 ![KeySkills](https://github.com/yasir2002/keyskillz/blob/main/pictures/readme.png)
 
-Live Deployment 🌐:[https://keyskillz.vercel.app/](https://keyskillz.vercel.app/)
+> [!TIP]
+> Live Deployment can be found on [keyskillz.vercel.app](https://keyskillz.vercel.app/) 💡
+
+
 
 Welcome to Key Skillz! This project is developed in React and allows users to test their typing speed and accuracy with a short one-minute typing test.
 
